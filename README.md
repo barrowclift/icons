@@ -30,3 +30,4 @@ sure to give proper credit to the template creators).
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/NetNewsWire/NetNewsWire.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/Skype/Skype.png" width="210">
 <img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/X11/X11.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/App%20Icons/Twitter/Twitter.png" width="210">
