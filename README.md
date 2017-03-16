@@ -20,7 +20,7 @@ Gallery
 
 ### Applications
 
-<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Adobe-Reader/Adobe-Reader.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Eclipse/Eclipse.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Sketch/Sketch.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Audacity/Audacity.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Kid3/Kid3.png" width="210">
+<img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Adobe-Reader/Adobe-Reader.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Eclipse/Eclipse.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Sketch/Sketch.png" width="210"><img src="https://raw.githubusercontent.com/Barrowclift/Icons/master/Applications/Kid3/Kid3.png" width="210">
 
 ### System Utilities
 
